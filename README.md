@@ -1,16 +1,40 @@
-## Hi there 👋
+## Howdy
 
-<!--
-**tros01/tros01** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+``` Python
+# Allow me to introduce myself
+name = "Tomas Rosecky"
 
-Here are some ideas to get you started:
+# I am fairly chuffed about how I've spent the past ten years or so
+education = (
+  "BA English Language and Literature",
+  "MSc Politics, Philosophy and Economics",
+  "MSc Economics"
+)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+# I spend a substantial part of my spare time developing myself
+current_studies = (
+  "IBM Data Analytics with Excel and R",
+  "IBM Data Analytics with Excel and Python",
+  "Google Advanced Data Analytics"
+)
+
+# Allow me to present my toolbox
+toolbox = {
+  "habitual_use": ["R", "Python"],
+  "competence": ["Excel", "MySQL", "SQLite"],
+  "familiarity": ["Cognos"],
+  "legacy": ["HTML", "CSS", "JavaScript"]
+}
+
+# Let me brag about other things I do besides staring into a screen
+interests = (
+  "deliberate crunching through books",
+  "following current affairs",
+  "applying statistics to things",
+  "learning things in parallel",
+  "roller blading in a clement weather",
+  "Saturday swimming"
+)
+```
+```
+
