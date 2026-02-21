@@ -1,6 +1,8 @@
-## Howdy
-
 ``` Python
+"""
+Please note that the repositories are work in progress. The contents are being made presentable as I plod through my coursework and will be finalised by the time I apply for a job with you.
+"""
+
 # Allow me to introduce myself
 name = "Tomas Rosecky"
 
