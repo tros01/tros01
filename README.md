@@ -1,8 +1,14 @@
 ``` Python
 """
-Please note that the repositories are work in progress.
+These repositories contain
+- course solutions,
+- independent projects
+- exploratory scripts
 
-The contents are being made presentable as I plod through my coursework and will be finalised by the time I apply for a job with **you**.
+Course solutions will be reports,
+projects will be fully worked out
+and explorations will be full tutorials
+by the time I apply for a job with you.
 """
 
 # Allow me to introduce myself
