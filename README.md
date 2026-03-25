@@ -4,11 +4,6 @@ These repositories contain
 - course solutions,
 - independent projects
 - exploratory scripts
-
-Course solutions will be reports,
-projects will be fully worked out
-and explorations will be full tutorials
-by the time I apply for a job with you.
 """
 
 # Allow me to introduce myself
