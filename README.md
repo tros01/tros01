@@ -1,11 +1,6 @@
-``` Python
-"""
-These repositories contain
-- course solutions,
-- independent projects
-- exploratory scripts
-"""
+## CV
 
+``` Python
 # Allow me to introduce myself
 name = "Tomas Rosecky"
 
