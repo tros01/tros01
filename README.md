@@ -32,7 +32,7 @@ interests = (
   "following current affairs",
   "applying statistics to things",
   "learning things in parallel",
-  "roller blading in a clement weather",
+  "fair-weather roller-blading",
   "Saturday swimming"
 )
 ```
