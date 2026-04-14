@@ -1,4 +1,4 @@
-## CV
+## Profile
 
 ``` Python
 # Allow me to introduce myself
