@@ -62,7 +62,7 @@ interests = (
   height="50" align="left" hspace="10" />
 
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original-wordmark.svg"
-  title="Python, Numpy, Pandas, Matplotlib, Plotnine, Requests, Scrapy, Scikit-Learn, Pytorch and other libraries" alt="Python, Numpy, Pandas, Matplotlib, Plotnine, Requests, Scrapy, Scikit-Learn, Pytorch and other libraries"
+  title="Python, Numpy, Pandas, Matplotlib, Plotnine, Requests, Scrapy, Scipy, Scikit-Learn, Pytorch and other libraries" alt="Python, Numpy, Pandas, Matplotlib, Plotnine, Requests, Scrapy, Scipy, Scikit-Learn, Pytorch and other libraries"
   height="50" align="left" hspace="10" />
 
 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/R_logo.svg/960px-R_logo.svg.png?20240131042527"
