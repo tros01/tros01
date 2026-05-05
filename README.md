@@ -74,11 +74,11 @@ interests = (
   height="50" align="left" hspace="10" />
 
 <img src="https://upload.wikimedia.org/wikipedia/commons/2/29/Postgresql_elephant.svg"
-  title="SQLite3 (Python) and RSQLite (R)" alt="SQLite3 (Python) and RSQLite (R)"
+  title="PostgreSQL, pgAdmin, psycopg2 (Python), SQLAlchemy (Python), RPostgreSQL (R) and DBI (R)" alt="PostgreSQL, pgAdmin, psycopg2 (Python), SQLAlchemy (Python), RPostgreSQL (R) and DBI (R)"
   height="50" align="left" hspace="10" />
 
 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/SQLite370.svg/500px-SQLite370.svg.png?20140602232932"
-  title="PostgreSQL, pgAdmin, psycopg2 (Python), SQLAlchemy (Python), RPostgreSQL (R) and DBI (R)" alt="PostgreSQL, pgAdmin, psycopg2 (Python), SQLAlchemy (Python), RPostgreSQL (R) and DBI (R)"
+  title="SQLite3 (Python) and RSQLite (R)" alt="SQLite3 (Python) and RSQLite (R)"
   height="50" align="left" hspace="10" />
 
 <br clear="all" />
