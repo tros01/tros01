@@ -15,7 +15,8 @@ formal_education = (
 current_studies = (
   "IBM Data Analytics with Excel and R",
   "IBM Data Analytics with Excel and Python",
-  "Google Advanced Data Analytics"
+  "Google Advanced Data Analytics",
+  "Mathematics for Machine Learning and Data Science"
 )
 
 # Ranked toolbox
