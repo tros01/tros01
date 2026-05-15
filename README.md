@@ -16,14 +16,14 @@ current_studies = (
   "IBM Data Analytics with Excel and R",
   "IBM Data Analytics with Excel and Python",
   "Google Advanced Data Analytics",
-  "Mathematics for Machine Learning and Data Science"
+  "DeepLearning.AI Mathematics for Machine Learning and Data Science"
 )
 
-# Ranked toolbox
+# Tool counter
 technical_toolbox = {
-  "habitual_use": ["R", "Python"],
-  "competence": ["Excel", "MySQL", "SQLite"],
-  "familiarity": ["Cognos"],
+  "habitual_user": ["R", "Python"],
+  "competent": ["Excel", "PostgreSQL", "SQLite", "MySQL"],
+  "familiar": ["Cognos"],
   "legacy": ["HTML", "CSS", "JavaScript"]
 }
 
@@ -31,6 +31,13 @@ technical_skillset = {
   "statistics",
   "econometrics",
   "data analysis"
+}
+
+funfact_skillset = {
+  "fluent touch-typing",
+  "fluent latex markup",
+  "fluent Czech",
+  "fluent English"
 }
 
 # Pastimes
