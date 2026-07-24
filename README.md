@@ -11,14 +11,6 @@ formal_education = (
   "MSc Economics"
 )
 
-# Current semi-formal development
-current_studies = (
-  "IBM Data Analytics with Excel and R",
-  "IBM Data Analytics with Excel and Python",
-  "Google Advanced Data Analytics",
-  "DeepLearning.AI Mathematics for Machine Learning and Data Science"
-)
-
 # Tool counter
 technical_toolbox = {
   "habitual_user": ["R", "Python"],
@@ -99,4 +91,10 @@ interests = (
   height="50" align="left" hspace="10" />
 
 <br clear="all" />
+</p>
+
+## Certification
+
+<p>
+<a href="https://coursera.org/share/2af9926f45a45e5c07726051e0a33a12" title="DeepLearning.AI Mathematics for Machine Learning and Data Science">DeepLearning.AI Mathematics for Machine Learning and Data Science</a>
 </p>
