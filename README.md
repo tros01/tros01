@@ -13,9 +13,8 @@ formal_education = (
 
 # Tool counter
 technical_toolbox = {
-  "habitual_user": ["R", "Python"],
+  "habitual": ["R", "Python"],
   "competent": ["Excel", "PostgreSQL", "SQLite", "MySQL"],
-  "familiar": ["Cognos"],
   "legacy": ["HTML", "CSS", "JavaScript"]
 }
 
@@ -34,8 +33,8 @@ funfact_skillset = {
 
 # Pastimes
 interests = (
-  "deliberate crunching through books",
-  "following current affairs",
+  "reading, thinking and talking about books",
+  "following and reflecting on current affairs",
   "applying statistics to things",
   "learning things in parallel",
   "fair-weather roller-blading",
