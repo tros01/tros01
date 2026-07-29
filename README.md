@@ -101,3 +101,7 @@ interests = (
 <p>
 <a href="https://coursera.org/share/d4eb965daca912a327a7772fc9532357" title="IBM Data Analytics with Excel and R">IBM Data Analytics with Excel and R</a>
 </p>
+
+## Projects
+
+Currently being curated.
