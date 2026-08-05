@@ -18,18 +18,18 @@ technical_toolbox = {
   "legacy": ["HTML", "CSS", "JavaScript"]
 }
 
-technical_skillset = {
+technical_skillset = (
   "statistics",
   "econometrics",
   "data analysis"
-}
+)
 
-funfact_skillset = {
+funfact_skillset = (
   "fluent touch-typing",
   "fluent latex markup",
   "fluent Czech",
   "fluent English"
-}
+)
 
 # Pastimes
 interests = (
