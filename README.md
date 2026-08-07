@@ -92,16 +92,6 @@ interests = (
 <br clear="all" />
 </p>
 
-## Certification
-
-<p>
-<a href="https://coursera.org/share/2af9926f45a45e5c07726051e0a33a12" title="DeepLearning.AI Mathematics for Machine Learning and Data Science">DeepLearning.AI Mathematics for Machine Learning and Data Science</a>
-</p>
-
-<p>
-<a href="https://coursera.org/share/d4eb965daca912a327a7772fc9532357" title="IBM Data Analytics with Excel and R">IBM Data Analytics with Excel and R</a>
-</p>
-
 ## Projects
 
 *Econometric, ML and other data projects.*
@@ -127,3 +117,13 @@ tl;dr
 **Toolbox**: R, tidyverse, tidyverts, httr2, rvest, zoo, trends.
 
 **Results**: We have found visual traces of a development in extreme precipitation patterns but no statistical significance.
+
+## Certification
+
+<p>
+<a href="https://coursera.org/share/2af9926f45a45e5c07726051e0a33a12" title="DeepLearning.AI Mathematics for Machine Learning and Data Science">DeepLearning.AI Mathematics for Machine Learning and Data Science</a>
+</p>
+
+<p>
+<a href="https://coursera.org/share/d4eb965daca912a327a7772fc9532357" title="IBM Data Analytics with Excel and R">IBM Data Analytics with Excel and R</a>
+</p>
