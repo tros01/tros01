@@ -104,13 +104,13 @@ interests = (
 
 ## Projects
 
-Econometric, ML and other data projects.
+*Econometric, ML and other data projects.*
 
 Currently being curated.
 
 ## Casual doodles
 
-Short projects answering interesting questions.
+*Short projects answering interesting questions.*
 
 ### Are we getting wetter as well as hotter? A look at extreme precipitation in England and Wales
 
