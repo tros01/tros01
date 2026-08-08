@@ -116,7 +116,7 @@ tl;dr
 
 **Toolbox**: R, tidyverse, tidyverts, httr2, rvest, zoo, trends.
 
-**Results**: We have found visual traces of a development in extreme precipitation patterns but no statistical significance.
+**Results**: We have found visual traces of a development in extreme precipitation patterns but no statistical significance with the exception of the total count of very wet days and total precipitation on very wet days. However, these two indices also fail to clear the 5% threshold of significance after adjustment for multiple hypotheses.
 
 ## Certification
 
