@@ -116,7 +116,7 @@ tl;dr
 
 **Toolbox**: R, tidyverse, tidyverts, httr2, rvest, zoo, trends.
 
-**Results**: We have found visual traces of a development in extreme precipitation patterns but no statistical significance with the exception of the total count of very wet days and total precipitation on very wet days. However, these two indices also fail to clear the 5% threshold of significance after adjustment for multiple hypotheses.
+**Results**: We have found visual traces of a development in extreme precipitation patterns but no statistical significance with the exception of the total count of very wet days and total precipitation on very wet days. These two indices alone clear the 5% threshold of significance. Perhaps the most surprising finding is the absence of an evolving pattern in the precipitation concentration index, which indicates that the yearly distribution of precipitation is stable.
 
 ## Certification
 
