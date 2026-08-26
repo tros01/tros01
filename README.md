@@ -98,6 +98,12 @@ interests = (
 
 Currently being curated.
 
+## Beaverton projects
+
+*Practical projects answering real business questions.*
+
+Currently being curated.
+
 ## Casual doodles
 
 *Short projects answering interesting questions.*
@@ -105,6 +111,8 @@ Currently being curated.
 ### Are we getting wetter as well as hotter? A look at extreme precipitation in England and Wales
 
 Notebook: [precipitation_in_england_and_wales-r](https://github.com/tros01/casual_doodles/blob/main/precipitation_in_england_and_wales/precipitation_in_england_and_wales-r.ipynb)
+
+<img src="[Isolated.png](https://github.com/tros01/casual_doodles/blob/7e083fcb5c125ca491b2c0568781f4ae362ce8ec/precipitation_in_england_and_wales/precipitation_in_england_and_wales_headline.png)" alt="A forest diagram of eight measures of precipitation in England and Wales." width="100%"/>
 
 tl;dr
 
