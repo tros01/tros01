@@ -74,10 +74,12 @@ interests = (
   alt="R, R Studio, tidyverse, tidymodels, tidyverts, rstanarm, CmdStanR, rvest, httr2 and other libraries"
   height="50" align="left" hspace="10" />
 
+<!---
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg"
   title="MySQL, Workbench, pyodbc (Python), SQLAlchemy (Python), odbc (R) and DBI (R)" 
   alt="MySQL, Workbench, pyodbc (Python), SQLAlchemy (Python), odbc (R) and DBI (R)"
   height="50" align="left" hspace="10" />
+-->
 
 <img src="https://upload.wikimedia.org/wikipedia/commons/2/29/Postgresql_elephant.svg"
   title="PostgreSQL, pgAdmin, psycopg2 (Python), SQLAlchemy (Python), RPostgreSQL (R) and DBI (R)" 
