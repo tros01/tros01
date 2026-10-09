@@ -139,7 +139,7 @@ City St George's, University of London
 </p>
 
 <p>
-Statistical Learning (in progress)<br>
+Statistical Learning with Python (in progress)<br>
 Stanford/edX
 </p>
 
