@@ -134,9 +134,21 @@ tl;dr
 ## Certification
 
 <p>
-<a href="https://coursera.org/share/2af9926f45a45e5c07726051e0a33a12" title="DeepLearning.AI Mathematics for Machine Learning and Data Science">DeepLearning.AI Mathematics for Machine Learning and Data Science</a>
+Introduction to Data Analytics and Machine Learning with Python (in progress)<br>
+City St George's, University of London
 </p>
 
 <p>
-<a href="https://coursera.org/share/d4eb965daca912a327a7772fc9532357" title="IBM Data Analytics with Excel and R">IBM Data Analytics with Excel and R</a>
+Statistical Learning (in progress)<br>
+Stanford/edX
+</p>
+
+<p>
+<a href="https://coursera.org/share/2af9926f45a45e5c07726051e0a33a12" title="Mathematics for Machine Learning and Data Science">Mathematics for Machine Learning and Data Science</a><br>
+Stanford/DeepLearning.AI/Coursera
+</p>
+
+<p>
+<a href="https://coursera.org/share/d4eb965daca912a327a7772fc9532357" title="Data Analytics with Excel and R">Data Analytics with Excel and R</a><br>
+IBM/Coursera
 </p>
