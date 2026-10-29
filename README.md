@@ -139,8 +139,8 @@ City St George's, University of London
 </p>
 
 <p>
-Statistical Learning with Python (in progress)<br>
-Stanford/edX
+<a href="https://courses.edx.org/certificates/197e83e5497545ac92e432dae53e8d46" title="Statistical Learning with Python">Statistical Learning with Python</a><br>
+Stanford Online/edX
 </p>
 
 <p>
