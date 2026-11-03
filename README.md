@@ -109,6 +109,20 @@ Currently being curated.
 
 Currently being curated.
 
+### Labour Force Survey helpers
+
+Folder: [ukds_data](https://github.com/tros01/econometrics_projects/tree/main/ukds_data)
+
+tl;dr
+
+**Goal**: Simplify locating, recoding and renaming variables in the Labour Force Survey and Understanding Society datasets.
+
+**Data**: Available from the [UK Data Service](https://ukdataservice.ac.uk/). Requires individual registration.
+
+**Toolbox**: R, tidyverse; Python, pandas, polars
+
+**Results**: We have some useful functions that enable us to extract individual files directly from the original zip archives. Most importantly, we have functions that parse the archived data data dictionary and construct one dictionary mapping variable onto column positions and variable labels; and another dictionary mapping variables onto code-label pairs. This solution substantially simplifies looking up, recoding and renaming variables in the R or Python environment.
+
 ## Casual doodles
 
 *Short projects answering interesting questions.*
